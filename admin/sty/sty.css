@@ -1,0 +1,53 @@
+body{
+	
+	
+	}
+.wrapper{
+	width:1000px;
+	height:auto;
+	margin:auto;
+	background-color:#0FF;
+	
+	
+	}	
+.header{
+	width:1000px;
+	height:130px;
+	border:6px groove #F90;
+background-image:url('Admin-icon.png')
+
+	
+	
+	
+	}
+.left{
+	width:794px;
+	height:800px;
+	background:#CCC;
+	float:left;
+	
+	
+	}	
+.right{
+	width:220px;
+	height:800px;
+	border:6px groove #F30;
+	float:right;
+	background-color:#FF0;
+	margin-top:-800px;
+	
+	}	
+.right a {
+	text-decoration:overline;
+	color:#060;
+	font-size:18px;
+	font-family:Tahoma, Geneva, sans-serif;
+	text-align:left;
+	padding:10px;
+	margin-bottom:10px;
+	display:block
+	
+	
+	
+	}	
+	

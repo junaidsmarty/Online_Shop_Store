@@ -1,0 +1,151 @@
+.top {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.top a {
+  background-color:#C93;
+}
+
+.top a:hover {
+  ;
+  color: black;
+}
+
+CSS Document */
+a{
+	font-weight:bold;
+}
+
+#smolleftdiv{
+  width: 130px;
+  position: fixed;
+ margin:10px;
+  background: #eee;
+  overflow-x: hidden;
+  padding: 8px 0;
+  
+}
+#leftdiv{
+	margin-top:10%;
+	margin-left:0;
+	
+	}
+#cats a {
+  padding:10px;
+  text-decoration:none;
+  font-size: 15px;
+  font-weight:bold;
+  color:#03C;
+  display: block;
+  background-color:#F30;
+  width:20%;
+  height:100%;
+  position:fixed;
+  margin:25px;
+  float:left;
+  position:static;
+ 
+  
+  
+}
+#cats a:hover{
+	color:#000;
+}
+table{
+	width: 50%;
+  margin: 10px;
+  background: white;
+  padding: 10px;
+  align:center;
+  text-align:left;
+}
+.tab{
+	float:right;
+	width:80%;
+  margin-left:10%
+  ;
+  alignment-adjust:central;
+  
+  background-color:#C96;
+  height:auto;
+  }
+	
+.guest{
+	
+	width: 100%;
+  margin: auto;
+  background: white;
+  padding: 10px;}
+.user{
+	width: 100%;
+	height: 200px;
+	margin-top: -100px;
+	background: white;
+	padding: 10px;
+	background-color: #0F9;
+	margin: 20px;
+}
+#search{
+	width:20%;
+	}
+.menu{
+	width:200px;
+	
+	float:left;
+	background:#000;
+	margin-left:-575px;
+}
+	.lll{
+		height:100%;
+	width:20%;
+	background-color:#093;}
+#form{
+	color:#669;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+      box-sizing: border-box;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.images{
+	width:780px;
+				padding:10px;
+				margin_left:30px;
+			position:absolute;
+				margin-top:-100px;
+				margin-bottom:10px;
+				text-align:center;
+float:right;
+					}
+					#r{width:800px;
+		
+		float:right;
+		background:#FCC;
+		margin-top:-400px;
+		
+					}
+					.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media screen and (max-width: 600px) {
+  .coloumn.side, .column.middle {
+    width: 100%;
+						
+  }
+  .try{background-color:#9C9;}
