@@ -2,8 +2,8 @@
 Front end - Usman Ahmed (14946)
 Back end - Junaid Jabbar (141816)
 
-# Online-Watch-Store
-An online luxury watch store
+# Online_Shop_Store
+An ecommerce all products online store
 
 # Download Wamp
 Step by step guide to download wamp server : https://sourceforge.net/projects/wampserver/
@@ -17,7 +17,7 @@ After Clone/Downloading the files extract the files into the "www" folder of the
 a) Username : root
 b) Paswword : 
 3) Click on import
-4) Add the watchmartmart.sql file to get all the tables used in the databas#e
+4) Add the shop.sql file to get all the tables used in the databas#e
 
 # Initialising
-In a new Tab type "localhost/watchmart" and enter.
+In a new Tab type "localhost/ecomerce" and enter.
